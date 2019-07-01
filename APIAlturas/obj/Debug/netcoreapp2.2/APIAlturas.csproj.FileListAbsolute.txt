@@ -1,0 +1,17 @@
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csprojAssemblyReference.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CoreCompileInputs.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cs
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfoInputs.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfo.cs
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.deps.json
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.json
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.dev.json
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.dll
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.pdb
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.dll
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.pdb
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorTargetAssemblyInfo.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CopyComplete
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.dll
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.pdb

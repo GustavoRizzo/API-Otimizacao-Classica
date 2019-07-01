@@ -1,0 +1,9 @@
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/bin/Debug/netstandard2.0/Alturas.deps.json
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/bin/Debug/netstandard2.0/Alturas.dll
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/bin/Debug/netstandard2.0/Alturas.pdb
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.csprojAssemblyReference.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.csproj.CoreCompileInputs.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfoInputs.cache
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfo.cs
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.dll
+/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.pdb

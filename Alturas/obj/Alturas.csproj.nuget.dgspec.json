@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj": {}
+  },
+  "projects": {
+    "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj",
+        "projectName": "Alturas",
+        "projectPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj",
+        "packagesPath": "/home/dono/.nuget/packages/",
+        "outputPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/dono/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
