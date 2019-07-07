@@ -54,13 +54,13 @@
             "processId": "${command:pickProcess}"
         },
 
-        //APIAlturas
+        //API
         {
-            "name": ".NET Core APIAlturas Launch (web)",
+            "name": ".NET Core API Launch (web)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.dll",
+            "program": "${workspaceFolder}/API/bin/Debug/netcoreapp2.2/API.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
@@ -87,7 +87,7 @@
             }
         },
         {
-            "name": ".NET Core APIAlturas Attach",
+            "name": ".NET Core API Attach",
             "type": "coreclr",
             "request": "attach",
             "processId": "${command:pickProcess}"
