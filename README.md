@@ -1,5 +1,5 @@
-# ExemploAPIREST
-ExemploAPIREST é um teste de API com dotnet core
+# API-Otimizacao-Classica
+API-Otimizacao-Classica desenvolvida em dotnet core, tem como objetivo oferecer mátodos de otimização classicos
 
 dotnet restore               
 dotnet run
