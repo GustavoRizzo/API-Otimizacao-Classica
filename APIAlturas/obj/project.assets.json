@@ -12087,23 +12087,23 @@
     ]
   },
   "packageFolders": {
-    "/home/dono/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Casa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/APIAlturas.csproj",
+      "projectUniqueName": "E:\\Git\\ExemploAPIREST\\APIAlturas\\APIAlturas.csproj",
       "projectName": "APIAlturas",
-      "projectPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/APIAlturas.csproj",
-      "packagesPath": "/home/dono/.nuget/packages/",
-      "outputPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/APIAlturas/obj/",
+      "projectPath": "E:\\Git\\ExemploAPIREST\\APIAlturas\\APIAlturas.csproj",
+      "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
+      "outputPath": "E:\\Git\\ExemploAPIREST\\APIAlturas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/dono/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -12114,8 +12114,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj": {
-              "projectPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj"
+            "E:\\Git\\ExemploAPIREST\\Alturas\\Alturas.csproj": {
+              "projectPath": "E:\\Git\\ExemploAPIREST\\Alturas\\Alturas.csproj"
             }
           }
         }

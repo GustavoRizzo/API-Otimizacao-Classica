@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "/home/dono/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Casa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj",
+      "projectUniqueName": "E:\\Git\\ExemploAPIREST\\Alturas\\Alturas.csproj",
       "projectName": "Alturas",
-      "projectPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/Alturas.csproj",
-      "packagesPath": "/home/dono/.nuget/packages/",
-      "outputPath": "/home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/",
+      "projectPath": "E:\\Git\\ExemploAPIREST\\Alturas\\Alturas.csproj",
+      "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
+      "outputPath": "E:\\Git\\ExemploAPIREST\\Alturas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/dono/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

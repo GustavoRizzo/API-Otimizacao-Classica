@@ -7,3 +7,12 @@
 /home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfo.cs
 /home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.dll
 /home/dono/Desktop/Gustavo/Projetos/Git/ExemploAPIREST/Alturas/obj/Debug/netstandard2.0/Alturas.pdb
+E:\Git\ExemploAPIREST\Alturas\bin\Debug\netstandard2.0\Alturas.deps.json
+E:\Git\ExemploAPIREST\Alturas\bin\Debug\netstandard2.0\Alturas.dll
+E:\Git\ExemploAPIREST\Alturas\bin\Debug\netstandard2.0\Alturas.pdb
+E:\Git\ExemploAPIREST\Alturas\obj\Debug\netstandard2.0\Alturas.csprojAssemblyReference.cache
+E:\Git\ExemploAPIREST\Alturas\obj\Debug\netstandard2.0\Alturas.csproj.CoreCompileInputs.cache
+E:\Git\ExemploAPIREST\Alturas\obj\Debug\netstandard2.0\Alturas.AssemblyInfoInputs.cache
+E:\Git\ExemploAPIREST\Alturas\obj\Debug\netstandard2.0\Alturas.AssemblyInfo.cs
+E:\Git\ExemploAPIREST\Alturas\obj\Debug\netstandard2.0\Alturas.dll
+E:\Git\ExemploAPIREST\Alturas\obj\Debug\netstandard2.0\Alturas.pdb
