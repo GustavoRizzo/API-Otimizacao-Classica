@@ -3,4 +3,4 @@ API-Otimizacao-Classica desenvolvida em dotnet core, tem como objetivo oferecer 
 
 dotnet restore               
 dotnet run
-https://localhost:5001/api/conversoralturas/pesmetros/1000
+https://localhost:5001/api/values
