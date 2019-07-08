@@ -27,7 +27,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Git\\API-Otimizacao-Classica\\OtimizacaoClassicaLib\\OtimizacaoClassicaLib.csproj": {
+                "projectPath": "E:\\Git\\API-Otimizacao-Classica\\OtimizacaoClassicaLib\\OtimizacaoClassicaLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -54,6 +58,56 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Git\\API-Otimizacao-Classica\\OtimizacaoClassicaLib\\OtimizacaoClassicaLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Git\\API-Otimizacao-Classica\\OtimizacaoClassicaLib\\OtimizacaoClassicaLib.csproj",
+        "projectName": "OtimizacaoClassicaLib",
+        "projectPath": "E:\\Git\\API-Otimizacao-Classica\\OtimizacaoClassicaLib\\OtimizacaoClassicaLib.csproj",
+        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
+        "outputPath": "E:\\Git\\API-Otimizacao-Classica\\OtimizacaoClassicaLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
               "autoReferenced": true
             }
           },

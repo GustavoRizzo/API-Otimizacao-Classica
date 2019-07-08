@@ -12,3 +12,6 @@ E:\Git\API-Otimizacao-Classica\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
 E:\Git\API-Otimizacao-Classica\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
 E:\Git\API-Otimizacao-Classica\API\obj\Debug\netcoreapp2.2\API.dll
 E:\Git\API-Otimizacao-Classica\API\obj\Debug\netcoreapp2.2\API.pdb
+E:\Git\API-Otimizacao-Classica\API\bin\Debug\netcoreapp2.2\OtimizacaoClassicaLib.dll
+E:\Git\API-Otimizacao-Classica\API\bin\Debug\netcoreapp2.2\OtimizacaoClassicaLib.pdb
+E:\Git\API-Otimizacao-Classica\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
