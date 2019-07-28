@@ -6,7 +6,7 @@ namespace OtimizacaoClassicaLib
 {
     public class Otimizador
     {
-        public static double declaraFuncao( double x)
+        public static double declaraFuncao( string func, double x)
         {          
             string num_str = doubleToStr(x);
 
@@ -15,7 +15,8 @@ namespace OtimizacaoClassicaLib
             Argument x1 = new Argument(x1_str);
 
             // Até o momento usaremos sempre a mesma função 
-            Function f = new Function("f(x) = 0.65 - (0.75 / (1 + x^2)) - 0.65 * x * atan(1/x)");
+            //Function f = new Function("f(x) = 0.65 - (0.75 / (1 + x^2)) - 0.65 * x * atan(1/x)");
+            Function f = new Function($"f(x)= {func}");
             org.mariuszgromada.math.mxparser.Expression e = new org.mariuszgromada.math.mxparser.Expression("f(x1)", f, x1);
             double res = e.calculate();
 

@@ -20,17 +20,39 @@ namespace API.Controllers
             double coordenada = random.NextDouble();
 
             // Verificamos o retorno da função naquela coordenada
-            double val_na_coordenada = OtimizacaoClassicaLib.Otimizador.declaraFuncao(coordenada);
+            double val_na_coordenada = OtimizacaoClassicaLib.Otimizador.declaraFuncao("f(x) = 0.65 - (0.75 / (1 + x^2)) - 0.65 * x * atan(1/x)",coordenada);
             
             return new string[] { $"f(x) = {val_na_coordenada}" , $"x = {coordenada}" };
         }
 
-        // GET api/values/5
-        [HttpGet("{coordenada}")]
-        public ActionResult<IEnumerable<string>> Get(double coordenada)
+        // GET api/values/x+1/5
+        [HttpGet("{cript_func}")]
+        public ActionResult<IEnumerable<string>> Get(string cript_func)
         {
+            //Descriptografa função
+            //regredescriptografia: 'div'->'/'
+            string func = cript_func.Replace("div","/");
+
+            // Dado que a pessoa não passou uma coordenada geramos uma aleatória
+            Random random = new Random();
+            double coordenada = random.NextDouble();
+            
             // Verificamos o retorno da função naquela coordenada
-            double val_na_coordenada = OtimizacaoClassicaLib.Otimizador.declaraFuncao(coordenada);
+            double val_na_coordenada = OtimizacaoClassicaLib.Otimizador.declaraFuncao(func,coordenada);
+            
+            return new string[] { $"f(x) = {val_na_coordenada}" , $"x = {coordenada}" };            
+        }
+
+        // GET api/values/x+1/5
+        [HttpGet("{cript_func}/{coordenada}")]
+        public ActionResult<IEnumerable<string>> Get(string cript_func, double coordenada)
+        {
+            //Descriptografa função
+            //regredescriptografia: 'div'->'/'
+            string func = cript_func.Replace("div","/");
+            
+            // Verificamos o retorno da função naquela coordenada
+            double val_na_coordenada = OtimizacaoClassicaLib.Otimizador.declaraFuncao(func,coordenada);
             
             return new string[] { $"f(x) = {val_na_coordenada}" , $"x = {coordenada}" };            
         }
