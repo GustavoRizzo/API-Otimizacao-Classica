@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
@@ -22,7 +23,7 @@ namespace API
                 .UseStartup<Startup>()
                 .ConfigureKestrel((context, options) =>
                 {
-                    options.Listen(System.Net.IPAddress.Loopback, 5010);
+                    options.Listen(IPAddress.Loopback, 5010);
                 })
                 ;
     }
