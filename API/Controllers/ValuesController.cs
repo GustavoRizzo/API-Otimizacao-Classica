@@ -13,7 +13,7 @@ namespace API.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<IEnumerable<string>> Get([FromQuery] string teste)
         {            
             // Dado que a pessoa não passou uma coordenada geramos uma aleatória
             Random random = new Random();
@@ -27,7 +27,7 @@ namespace API.Controllers
 
         // GET api/values/x+1
         [HttpGet("{cript_func}")]
-        public ActionResult<IEnumerable<string>> Get(string cript_func)
+        public ActionResult<IEnumerable<string>> Get(string cript_func, [FromQuery] string teste)
         {
             //Descriptografa função
             //regredescriptografia: 'div'->'/'
